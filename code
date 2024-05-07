@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>пан</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+ <img id ="loggged after 1 ss"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8vaQkb9xGFRYLmWz_nERCJDyL6vVvsgETA&s" height="40px"/>
+            <b>Картинки из блокс фрута</b><a href="#xD">Подробнее</a>
+        </header>
+    <h1><i>Парочку картинок из блокс фрута</i></h1>
+    <p> Будда в2</p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8vaQkb9xGFRYLmWz_nERCJDyL6vVvsgETA&s"/>
+    <p> Свет в2</p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgy66YlRsQyMCyJ5MHfgRL0PnyJS9iTk3wPg&s"/>
+    <p>Перм портал в2</p><img src="https://static.wikia.nocookie.net/blox-fruits/images/3/38/PortalB.png/revision/latest/scale-to-width/360?cb=20231028100333&path-prefix=ru"/>
+    <p> Блокс фрут вики</p><img src="https://static.wikia.nocookie.net/blox-fruits/images/3/39/Site-community-image/revision/latest?cb=20221017191756&path-prefix=ru"/>
+    <footer>
+    <p> Кидайте свои ники будем добавляться в друзья</p>
+    </footer>
+    </body>
+</html>
